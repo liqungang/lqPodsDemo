@@ -8,7 +8,7 @@
 
 #import "ZRDeviceUtils.h"
 #import <UIKit/UIKit.h>
-#import "ZRColorConstant.h"
+//#import "ZRColorConstant.h"
 
 @implementation ZRDeviceUtils
 
