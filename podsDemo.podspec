@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "podsDemo"
+  s.name         = "podsDemoss"
   s.version      = "0.0.1"
   s.summary      = "一个建立pod仓库的简单demopodsDemo."
 
@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "Classes", "podsDemo/podsDemo/**/*.{h,m}"
-  #s.exclude_files = "Classes/Exclude"
+  s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
