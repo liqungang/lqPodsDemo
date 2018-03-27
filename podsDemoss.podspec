@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "podsDemoss"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "一个建立pod仓库的简单demopodsDemo."
 
   # This description is used to generate tags and improve search results.
