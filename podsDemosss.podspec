@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "podsDemosss"
-  s.version      = "0.0.1"
+  s.version      = "0.0.6"
   s.summary      = "一个建立pod仓库的简单demopodsDemo."
 
   # This description is used to generate tags and improve search results.
@@ -133,6 +133,7 @@ Pod::Spec.new do |s|
   # s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  # s.dependency "JSONKit", "~> 1.4"
+   #s.dependency "JSONKit", "~> 2.0.0"
+   s.dependency 'AFNetworking', '~> 1.0'
 
 end
